@@ -1,4 +1,5 @@
 // Animation Timeline
+window.alert("Acha hoga ki app laptop me dekhe otherwise ok");
 const animationTimeline = () => {
   // Spit chars that needs to be animated individually
   const textBoxChars = document.getElementsByClassName("hbd-chatbox")[0];
